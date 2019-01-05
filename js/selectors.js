@@ -8,4 +8,8 @@ function lastImageSelector() {
   
 }
 
+function ninjaBabySelector() {
+  
+}
+
 function 
